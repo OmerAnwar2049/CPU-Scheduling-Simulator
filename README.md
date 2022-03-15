@@ -5,10 +5,15 @@
 g++ -pthread -o readystate ready.cpp
 
 g++ -pthread -o blockedstate blocked.cpp
+
 g++ -o newstate new.cpp
+
 g++ -o exitstate exit.cpp
+
 g++ -o runningstate running.cpp
+
 g++ main.cpp
+
 ./a.out
 
 2)The Process Name, Waiting Time ,  Trunaround Time and Burst time are recorded in a file named "processes_stats.txt"
@@ -27,6 +32,8 @@ Errors:
 RUN THESE COMMANDS EVERYTIME THE SCHEDULER IS CHANGED AND IF THE PROGRAM BECOMES STUCK PRESS (Ctrl+c) compile and run again.
 
 Output:
-![FCFS](https://user-images.githubusercontent.com/64328883/158458910-7af9b406-91cc-406c-8a10-838e72a5ba96.png)
+
+![image](https://user-images.githubusercontent.com/64328883/158459544-2303f466-f883-44b9-ba7d-233180ea6dc0.png)
+
 
 

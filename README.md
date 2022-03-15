@@ -3,6 +3,7 @@
 1)Run the commands below on the terminal to start the scheduler.
 
 g++ -pthread -o readystate ready.cpp
+
 g++ -pthread -o blockedstate blocked.cpp
 g++ -o newstate new.cpp
 g++ -o exitstate exit.cpp

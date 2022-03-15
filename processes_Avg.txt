@@ -1,0 +1,4 @@
+
+
+\ Avg Turnaround   | Avg Waiting Time  | Throughput |
+--------------------------------------------------------------|

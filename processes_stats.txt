@@ -1,0 +1,6 @@
+                                     OMER'S SCHEDULING SYSTEM (WORKS RELIABLY SOMETIMES )
+
+|| The Algorithm Implemented : FCFS
+
+\ Name    | Arrival  | Burst     |Turnaround |  Waiting Time | 
+--------------------------------------------------------------|

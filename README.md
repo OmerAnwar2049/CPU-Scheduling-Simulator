@@ -33,7 +33,7 @@ RUN THESE COMMANDS EVERYTIME THE SCHEDULER IS CHANGED AND IF THE PROGRAM BECOMES
 
 Output:
 
-![image](https://user-images.githubusercontent.com/64328883/158459544-2303f466-f883-44b9-ba7d-233180ea6dc0.png)
+![image](https://user-images.githubusercontent.com/64328883/158459811-bccbf1b1-0e87-4b01-af33-292e5902ddb1.png)
 
 
 

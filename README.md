@@ -22,7 +22,7 @@ g++ main.cpp
 
 4)All procs are read from processes.txt (You can change the procs as you like)
 
-5)In the end on the terminal a text will appear by the name of "Doom clock actavated" and all the procs will be displayed on the terminal,then press (Ctrl+c) to end it.(FOR SOME REASON THE THREADED PROCESSES KEEP RUNNING EVEN AFTER TERMINATING SIGNAL,YOU CAN USE TOP COMMAND TO SEE IT)
+5)In the end on the terminal a text will appear by the name of "End clock activated" and all the processes will be displayed on the terminal,then press (Ctrl+c) to end it.
 
 6)If there are any difficulties or any wierd errors popping up please consult me and I would be happy to explain any part of the code over a live session.
 

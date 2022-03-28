@@ -24,9 +24,6 @@ g++ main.cpp
 
 5)In the end on the terminal a text will appear by the name of "End clock activated" and all the processes will be displayed on the terminal,then press (Ctrl+c) to end it.
 
-6)If there are any difficulties or any wierd errors popping up please consult me and I would be happy to explain any part of the code over a live session.
-
-
 
 Errors:
 RUN THESE COMMANDS EVERYTIME THE SCHEDULER IS CHANGED AND IF THE PROGRAM BECOMES STUCK PRESS (Ctrl+c) compile and run again.
